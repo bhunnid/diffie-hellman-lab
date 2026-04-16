@@ -59,7 +59,7 @@ Both parties derive identical secure keys
 Keys are long, random, and cryptographically strong
 Each execution produces a different key (forward secrecy)
 
-7. Conclusion
+6. Conclusion
 
 This lab demonstrates that while the basic Diffie-Hellman algorithm correctly establishes a shared secret, it is inherently insecure due to its vulnerability to Man-in-the-Middle attacks.
 
